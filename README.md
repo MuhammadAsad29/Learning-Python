@@ -19,7 +19,7 @@ How to use:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/learning-python-labs.git
+   git clone https://github.com/MuhammadAsad29/learning-python-labs.git
    cd learning-python-labs
    ```
 2. (Optional) Create and activate a virtual environment:
